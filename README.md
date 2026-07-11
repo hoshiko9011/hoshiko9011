@@ -35,8 +35,8 @@
 > Always learning something new  ⌒₊˚
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ocnegchckkyk56tofxnbrmxme&cover_image=true&theme=default&show_offline=false&background_color=3d3842&interchange=false&profanity=false&hide_remaster=false&bar_color=866dc0&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313ocnegchckkyk56tofxnbrmxme&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ocnegchckkyk56tofxnbrmxme&cover_image=true&theme=default&show_offline=false&background_color=3d3842&interchange=false&profanity=true&hide_remaster=true&bar_color=866dc0&bar_color_cover=false">
   </a>
 </p>
 <details open>
