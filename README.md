@@ -10,19 +10,15 @@
 <p align="center">
 
 <a href="https://youtube.com/@bokkishita">
-<img width="40px" src="https://cdn.simpleicons.org/youtube/FF0000"/>
+<img width="32px" alt="Youtube" title="Youtube" src="https://cdn.simpleicons.org/youtube/FF0000"/>
 </a>
-
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 <a href="https://www.tiktok.com/@bokkishita">
-<img width="40px" src="https://cdn.simpleicons.org/tiktok/white"/>
+<img width="32px" src="https://cdn.simpleicons.org/tiktok/white"/>
 </a>
-
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 <a href="https://discord.gg/bxkkishita">
-<img width="40px" src="https://cdn.simpleicons.org/discord/5865F2"/>
+<img width="32px" src="https://cdn.simpleicons.org/discord/5865F2"/>
 </a>
 
 </p>
