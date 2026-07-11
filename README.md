@@ -6,6 +6,8 @@
 
 ---
 
+## About Me
+
 I'm currently learning:
 
 - Python
@@ -14,12 +16,5 @@ I'm currently learning:
 - React
 - Tailwind CSS
 - PHP
----
-## About Me
-
-- 💜 Purple Lover
-- 🐺 Wolf Fan
-- 🎮 Anime Games
-- 🌙 Night Coder
 
 > Always learning something new.
