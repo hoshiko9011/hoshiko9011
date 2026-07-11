@@ -74,7 +74,7 @@
 
 <a href="https://github.com/hoshiko9011?tab=repositories">
 
-<img src="https://custom-icon-badges.demolab.com/badge/-💜%20View%20All%20Repositories-8B5CF6?style=for-the-badge&logo=repo&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Ꮺ%20View%20All%20Repositories-8B5CF6?style=for-the-badge&logo=repo&logoColor=white"/>
 
 </a>
 
