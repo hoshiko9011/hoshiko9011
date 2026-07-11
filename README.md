@@ -36,25 +36,32 @@
 > Always learning something new.
 
 <details open>
-<summary><h2>💜 My Featured Projects</h2></summary>
+<summary>
+
+# 🚀 Featured Projects
+
+<sub>✨ Things I'm building one commit at a time ✨</sub>
+
+</summary>
+
+<br>
 
 <p align="center">
 
 <a href="https://github.com/hoshiko9011/blup">
-<img width="300"
-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=blup&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/hoshiko9011/my-first-repo">
-<img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-first-repo&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=blup&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/hoshiko9011/todo-app">
-<img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=todo-app&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=todo-app&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/hoshiko9011/my-project">
-<img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-project&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-project&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/hoshiko9011/my-first-repo">
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-first-repo&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -62,7 +69,9 @@ src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshi
 <p align="center">
 
 <a href="https://github.com/hoshiko9011?tab=repositories">
-<img src="https://custom-icon-badges.demolab.com/badge/-✨%20View%20All%20Repositories-7c3aed?style=for-the-badge&logo=repo&logoColor=white"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-💜%20View%20All%20Repositories-8B5CF6?style=for-the-badge&logo=repo&logoColor=white"/>
+
 </a>
 
 </p>
