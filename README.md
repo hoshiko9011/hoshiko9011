@@ -9,11 +9,11 @@
 
 I'm currently learning:
 
-- [Python](https://img.shields.io/badge/Python-black?logo=Python)
-- [JavaScript](https://img.shields.io/badge/Java-Script-black?logo=JavaScript)
-- [TypeScript](https://img.shields.io/badge/Type-Script-black?logo=TypeScript)
-- [React](https://img.shields.io/badge/React-black?logo=React)
-- [Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-black?logo=Tailwind%20CSS)
-- [PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
+- ![Python](https://img.shields.io/badge/Python-black?logo=Python)
+- ![JavaScript](https://img.shields.io/badge/Java-Script-black?logo=JavaScript)
+- ![TypeScript](https://img.shields.io/badge/Type-Script-black?logo=TypeScript)
+- ![React](https://img.shields.io/badge/React-black?logo=React)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-black?logo=Tailwind%20CSS)
+- ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 
 > Always learning something new.
