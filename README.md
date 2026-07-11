@@ -9,7 +9,7 @@
 <p align="center">
 
 <a href="https://youtube.com/@bokkishita">
-<img width="32px" alt="Youtube" title="Youtube" src="https://cdn.simpleicons.org/youtube/FF0000"/>
+<img width="45px" alt="Youtube" title="Youtube" src="https://cdn.simpleicons.org/youtube/FF0000"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.tiktok.com/@bokkishita">
