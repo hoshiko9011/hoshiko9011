@@ -2,7 +2,11 @@
 <p align="center">
   <img src="banner.png" alt="Banner">
 </p>
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ocnegchckkyk56tofxnbrmxme&cover_image=true&theme=default&show_offline=false&background_color=3d3842&interchange=false&profanity=false&hide_remaster=false&bar_color=866dc0&bar_color_cover=false">
+  </a>
+</p>
 
 # 𓏴    ࣪ About Me ∿    
 
