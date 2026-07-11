@@ -3,7 +3,9 @@
   <img src="banner.png" alt="Banner">
 </p>
 💜 Welcome to my GitHub profile!
+
 ---
+
 I'm currently learning:
 
 - Python
