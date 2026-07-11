@@ -3,7 +3,7 @@
   <img src="banner.png" alt="Banner">
 </p>
 
-# About Me
+# 𓏴    ࣪ About Me ∿    
 
 <p align="center">
 
@@ -23,7 +23,7 @@
 
 
 
-## I'm currently learning:
+## ⠀𓏵⠀  𓈒 I'm currently learning:
 
 - ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 - ![JavaScript](https://img.shields.io/badge/Java-Script-black?logo=JavaScript)
@@ -32,14 +32,14 @@
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-black?logo=Tailwind%20CSS)
 - ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 
-> Always learning something new.
+> Always learning something new  ⌒₊˚
 
 <details open>
 <summary>
 
-# 🚀 Featured Projects
+# .ㅤ  ౨౿ Featured Projects
 
-<sub>✨ Things I'm building one commit at a time ✨</sub>
+<sub>   𐔌   ׂ Things I'm building one commit at a time  ( ⸝⸝´꒳`⸝⸝) </sub>
 
 </summary>
 
