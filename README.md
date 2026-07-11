@@ -7,6 +7,26 @@
 
 ## About Me
 
+<p align="center">
+
+<a href="https://youtube.com/@bokkishita">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg"/>
+</a>
+
+&#8287;&#8287;&#8287;
+
+<a href="https://www.tiktok.com/@bokkishita">
+<img width="40px" src="https://cdn.simpleicons.org/tiktok/white"/>
+</a>
+
+&#8287;&#8287;&#8287;
+
+<a href="https://discord.gg/bxkkishita">
+<img width="40px" src="https://cdn.simpleicons.org/discord/5865F2"/>
+</a>
+
+</p>
+
 I'm currently learning:
 
 - ![Python](https://img.shields.io/badge/Python-black?logo=Python)
