@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
 # Hi 👋 I'm Hoshiko
 
 💜 Welcome to my GitHub profile!
