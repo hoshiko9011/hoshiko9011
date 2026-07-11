@@ -13,4 +13,3 @@ I'm currently learning:
 
 I love Anime 🎌
 Games 🎮
-and Wolves 🐺
