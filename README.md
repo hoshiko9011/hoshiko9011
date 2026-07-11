@@ -41,7 +41,8 @@
 <p align="center">
 
 <a href="https://github.com/hoshiko9011/blup">
-<img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=blup&theme=tokyonight&hide_border=true" />
+<img width="300"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=blup&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/hoshiko9011/my-first-repo">
