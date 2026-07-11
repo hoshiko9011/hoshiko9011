@@ -25,7 +25,7 @@
 
 ---
 
-I'm currently learning:
+#I'm currently learning:
 
 - ![Python](https://img.shields.io/badge/Python-black?logo=Python)
 - ![JavaScript](https://img.shields.io/badge/Java-Script-black?logo=JavaScript)
