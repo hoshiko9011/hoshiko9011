@@ -13,5 +13,4 @@ I'm currently learning:
 - Tailwind CSS
 - PHP
 
-I love Anime 🎌
-Games 🎮
+my fav game : genshin impact , Honkai: Star Rail , roblox , Infinity Nikki
