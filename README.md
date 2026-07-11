@@ -15,3 +15,11 @@ I'm currently learning:
 - Tailwind CSS
 - PHP
 ---
+## About Me
+
+- 💜 Purple Lover
+- 🐺 Wolf Fan
+- 🎮 Anime Games
+- 🌙 Night Coder
+
+> Always learning something new.
