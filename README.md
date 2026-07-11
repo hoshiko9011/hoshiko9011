@@ -13,4 +13,3 @@ I'm currently learning:
 - Tailwind CSS
 - PHP
 
-my fav game : genshin impact , Honkai: Star Rail , roblox , Infinity Nikki
