@@ -2,7 +2,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner">
 </p>
-💜 Welcome to my GitHub profile!
+> 💜 Welcome to my GitHub profile!
 
 ---
 
