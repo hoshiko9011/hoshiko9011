@@ -52,7 +52,7 @@
 
 <p align="center">
 
-<a href="https://github.com/hoshiko9011/blup">
+<a href="https://github.com/hoshiko9011/lavender-theme">
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=blup&theme=tokyonight&hide_border=true"/>
 </a>
 
