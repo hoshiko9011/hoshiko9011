@@ -56,7 +56,7 @@
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=lavender-theme&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/hoshiko9011/todo-app">
+<a href="https://github.com/hoshiko9011/Tintelya.git">
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=todo-app&theme=tokyonight&hide_border=true"/>
 </a>
 
