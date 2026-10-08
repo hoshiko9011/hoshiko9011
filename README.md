@@ -60,8 +60,8 @@
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=Tintelya&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/hoshiko9011/my-project">
-<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-project&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/hoshiko9011/verdea">
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=verdea&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/hoshiko9011/my-first-repo">
