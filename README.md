@@ -64,8 +64,8 @@
 <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=verdea&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/hoshiko9011/my-first-repo">
-<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=my-first-repo&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/hoshiko9011/verdea">
+<img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=verdea&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
