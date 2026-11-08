@@ -98,27 +98,6 @@
 
 </div>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/hoshiko9011/lavender-theme">
-    <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=lavender-theme&theme=tokyonight&hide_border=true&bg_color=14121F&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E0F5&border_radius=12" alt="lavender-theme"/>
-  </a>
-  <a href="https://github.com/hoshiko9011/Tintelya">
-    <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=Tintelya&theme=tokyonight&hide_border=true&bg_color=14121F&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E0F5&border_radius=12" alt="Tintelya"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hoshiko9011/verdea">
-    <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=verdea&theme=tokyonight&hide_border=true&bg_color=14121F&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E0F5&border_radius=12" alt="verdea"/>
-  </a>
-  <a href="https://github.com/hoshiko9011/labkhand-nini">
-    <img width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hoshiko9011&repo=labkhand-nini&theme=tokyonight&hide_border=true&bg_color=14121F&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E0F5&border_radius=12" alt="labkhand-nini"/>
-  </a>
-</p>
-
-<br>
 
 <div align="center">
 
